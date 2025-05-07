@@ -1,0 +1,24 @@
+[submodule "CT250BE_Admin"]
+	path = CT250BE_Admin
+	url = https://github.com/hung179/CT250BE_Admin.git
+[submodule "CT250BE_BillService"]
+	path = CT250BE_BillService
+	url = https://github.com/hung179/CT250BE_BillService.git
+[submodule "CT250BE_Category"]
+	path = CT250BE_Category
+	url = https://github.com/hung179/CT250BE_Category.git
+[submodule "CT250BE_Customer"]
+	path = CT250BE_Customer
+	url = https://github.com/hung179/CT250BE_Customer.git
+[submodule "CT250BE_Gateway"]
+	path = CT250BE_Gateway
+	url = https://github.com/hung179/CT250BE_Gateway.git
+[submodule "CT250BE_Product"]
+	path = CT250BE_Product
+	url = https://github.com/hung179/CT250BE_Product.git
+[submodule "CT250FE_Admin"]
+	path = CT250FE_Admin
+	url = https://github.com/hung179/CT250FE_Admin.git
+[submodule "CT250FE_Customer"]
+	path = CT250FE_Customer
+	url = https://github.com/hung179/CT250FE_Customer.git
